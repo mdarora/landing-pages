@@ -1347,10 +1347,10 @@ footer .rights a:hover{
         height: 200px;
     }
     .started ul.time {
-        width: 100%;
+        width: 95%;
     }
     .started ul.time li{
-        width: 30%;
+        width: 50%;
         line-height: 35px;
         font-size: 12px;
         transform: scale(1.15);
@@ -1364,7 +1364,7 @@ footer .rights a:hover{
 }
 @media screen and (max-width:375px){
     .started ul.time li{
-        width: 33%;
+        width: 50%;
         line-height: 35px;
         font-size: 12px;
         transform: scale(1.04);
